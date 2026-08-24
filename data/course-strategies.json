@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-07-11",
+  "note": "课程取舍来自云端目录实盘与公开可访问的小红书经验页/老师公开课。社区建议仅用于决定学习顺序，最终以做题正确率和复盘记录调整。",
+  "teachers": [
+    {
+      "teacher": "郭熙",
+      "module": "言语理解",
+      "yearChoice": "主线看 2027 考季《言语高分十二技》12 讲；完成后接 2026《言语考前必做100题》10 讲。",
+      "studyMethod": "每讲先做讲义例题，再听方法；当天补同题型 20 题并记录错因。十二技解决框架，100题只做限时应用。",
+      "skipAdvice": "云盘根目录旧版 9 节“精讲精练”与十二技重合，不再整套重听；只在对应题型正确率低于 75% 时回看。",
+      "bilibili": [
+        { "title": "郭熙官方课程检索（优先最新十二技）", "url": "https://search.bilibili.com/all?keyword=%E9%83%AD%E7%86%99%20%E8%A8%80%E8%AF%AD%E5%8D%81%E4%BA%8C%E6%8A%80" },
+        { "title": "郭熙言语必刷100题", "url": "https://www.bilibili.com/video/BV1hFaHzyE2Q" }
+      ],
+      "research": [
+        { "title": "郭熙十二技与学习框架经验", "url": "https://www.sina.cn/news/detail/5307883386573554.html" },
+        { "title": "2027 郭熙课程清单经验", "url": "https://www.sina.cn/news/detail/5310477653510281.html" }
+      ]
+    },
+    {
+      "teacher": "高照",
+      "module": "资料分析 / 数量关系",
+      "yearChoice": "资料主线保留 2025《3+2》16 讲和《夸夸刷》13 讲；26 年云盘没有同名新版资料基础课。浙江数量接 2025《拿分稳稳班》，数字推理用 2026《460题》。",
+      "studyMethod": "3+2 每讲做完例题再听；夸夸刷按题型连续集中完成，不和基础课交叉乱序。超大杯只挑薄弱题型。资料训练固定 20 题、30 分钟，复盘到计算步骤。",
+      "skipAdvice": "已经掌握的超大杯讲解直接跳；数量强化阶段与主课同名的重复视频不双看。中央/江苏数量只抓简单题，浙江则完整覆盖高频模型。",
+      "bilibili": [
+        { "title": "高照资料分析 3+2（16讲）", "url": "https://www.bilibili.com/video/BV1x8AjzmE8j/" },
+        { "title": "高照资料分析精简复习", "url": "https://www.bilibili.com/video/BV1XTVM62EyG/" },
+        { "title": "高照数字推理460题", "url": "https://www.bilibili.com/video/BV143QeBeEF5/" }
+      ],
+      "research": [
+        { "title": "高照夸夸刷集中学习经验", "url": "https://www.sina.cn/news/detail/5275433673166284.html" },
+        { "title": "高照3+2新版笔记经验", "url": "https://www.sina.cn/news/detail/5300727981015328.html" }
+      ]
+    },
+    {
+      "teacher": "龙飞",
+      "module": "图形推理 / 定义判断",
+      "yearChoice": "按 2026《平面图推筑基》→《平面图推500题》→《立体图推》学习；定义判断放到专项阶段。",
+      "studyMethod": "筑基每讲整理识别特征；500题先独立限时做再听，错题只记录‘识别入口’。立体图推在平面稳定后集中完成。",
+      "skipAdvice": "筑基两个“第十一讲加课”是重复版本，只看日期完整文件；500题两节答疑、立体课拆分的上下集均按需看，不和完整文件重复。",
+      "bilibili": [
+        { "title": "龙飞2026筑基与百大图形", "url": "https://www.bilibili.com/video/BV1omUqBRES2/" },
+        { "title": "龙飞图推最新课程检索", "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A3%9E%E5%9B%BE%E6%8E%A8%202026" }
+      ],
+      "research": [
+        { "title": "龙飞课程顺序与百大图形经验", "url": "https://www.sina.cn/news/detail/5258919205144365.html" }
+      ]
+    },
+    {
+      "teacher": "花生十三",
+      "module": "逻辑判断",
+      "yearChoice": "判断推理统一使用 2026《飞扬笔试系统班》：逻辑 01-08 与逻辑刷题为主线，类比、定义及对应刷题也使用本班课程。图推仍由龙飞负责。",
+      "studyMethod": "逻辑按课序建立论点、论据、加强削弱与形式逻辑框架；类比先学两节方法课，再完成总结与两节刷题；定义课先独立判断关键词。所有刷题课必须先做后听，每 10 题统计错误类型。",
+      "skipAdvice": "系统班中的言语、资料不排课，分别交给郭熙、高照；花生十三图推正课不重复听，保留综合总结；临时逻辑加课只排与主线互补的两节。",
+      "bilibili": [
+        { "title": "花生十三逻辑判断总结", "url": "https://www.bilibili.com/video/BV1dCzTBCEMJ/" },
+        { "title": "花生十三官方600题", "url": "https://www.bilibili.com/video/BV1WuRDBDE8S/" }
+      ],
+      "research": [
+        { "title": "花生十三系统班学习顺序经验", "url": "https://weibo.com/5808300150/P9RCkcXuf" },
+        { "title": "2026课程与600题说明", "url": "https://www.weibo.com/1906965725/QfDxc7XYQ" }
+      ]
+    },
+    {
+      "teacher": "白鹭",
+      "module": "申论",
+      "yearChoice": "2021《60天上岸》只取 1-8 讲建立框架；主线使用 2026《扎马步》16 节正课，再进《破题阵》作业与《点将台》套题。",
+      "studyMethod": "前期答案先在电脑上写，再逐要点对照；进入破题阵后改为纸笔限时。每课沉淀一套自己的概括词、规范表达和作文素材。",
+      "skipAdvice": "60天第9-21讲直接跳，22-60仅作薄弱点索引；扎马步早期编号1-6与日期版正课重复，优先日期版；破题阵与扎马步同题型正课不重复听，主看作业讲解。",
+      "bilibili": [
+        { "title": "白鹭2026申论课程合集", "url": "https://www.bilibili.com/video/BV1jVr5BKEsm/" },
+        { "title": "白鹭60天上岸计划", "url": "https://www.bilibili.com/video/BV1JN4y1m73J/" },
+        { "title": "白鹭申论做题步骤", "url": "https://www.bilibili.com/video/BV1sMyrBNEfo/" }
+      ],
+      "research": [
+        { "title": "白鹭课程顺序、60天跳课经验", "url": "https://www.sina.cn/news/detail/5248538965444944.html" },
+        { "title": "破题阵与扎马步课程说明", "url": "https://jiaoyuxuexi.com/archives/3036" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gongkao-manager",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local civil-service exam study manager for todo, review, essays, idioms, courses and countdowns.",
+  "scripts": {
+    "start": "node server.js",
+    "start:bg": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\\Start-Gongkao.ps1",
+    "open": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\\Start-Gongkao.ps1 -OpenBrowser",
+    "install:autostart": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\\Install-GongkaoAutostart.ps1",
+    "test:ui": "node tests/ui-smoke.js",
+    "test:ai": "node tests/ai-e2e.js",
+    "scan:courses": "python scripts/scan-cloud-courses.py"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@openai/codex": "0.144.1",
+    "lucide": "0.468.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.61.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "lastSuccessAt": "2026-07-10T17:09:00.549Z",
+  "lastTextSuccessAt": "2026-07-10T17:08:55.839Z",
+  "lastVisionSuccessAt": "2026-07-10T17:09:00.549Z",
+  "lastWebSuccessAt": "2026-07-10T17:08:55.839Z",
+  "lastErrorAt": "",
+  "lastError": "",
+  "errorCode": "",
+  "retryAt": "",
+  "lastModel": "xopqwen35397b",
+  "latencyMs": 4069,
+  "configFingerprint": "5ba91d4fd80cb3da"
+}

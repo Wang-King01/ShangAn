@@ -1,0 +1,618 @@
+{
+  "progress": {
+    "2026-07-17": {
+      "afternoon": {
+        "done": true,
+        "minutes": 210,
+        "module": "资料分析",
+        "task": "基础主课，完成讲义并用余下时间做同题型 20 题：高照《2025 资料分析3+2》1.速算技巧一加法减法乘法。",
+        "notes": "",
+        "updatedAt": "2026-08-07T08:56:22.468Z"
+      }
+    },
+    "2026-07-18": {
+      "morning": {
+        "done": true,
+        "minutes": 90,
+        "module": "判断推理",
+        "task": "基础主课，先做例题后以 1.5-2 倍速听重点：龙飞《2026 平面图推筑基先行班》20250509 第一讲线专题基础理论讲解。",
+        "notes": "",
+        "updatedAt": "2026-08-07T08:56:28.527Z"
+      }
+    }
+  },
+  "timers": {},
+  "studyLogs": [],
+  "suiteReviews": [],
+  "essays": [],
+  "mistakes": [],
+  "idiomProgress": {},
+  "exams": [
+    {
+      "officialArticleUrl": "https://www.jszzb.gov.cn/tzgg/art/2025/art_311f52a18ad535b3b8642c677450bab1.html",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://m.yzwb.net/wap/news/4067146.html",
+      "agencyNoticeLabel": "扬子晚报·选调公告解读",
+      "id": "exam-js-my",
+      "name": "江苏名校优生选调",
+      "province": "江苏",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "官方不指定大纲；训练假设为综合能力/素质测试，客观题约60分，申论约90分，重点放在资料、言语、判断、申论与江苏省情。",
+      "dateNote": "2026年度公告已发布（2025年10月发布）：笔试2025年11月15日；下一年度公告预计2026年10月发布",
+      "noticeUrl": "https://www.jszzb.gov.cn/tzgg/art/2025/art_311f52a18ad535b3b8642c677450bab1.html",
+      "noticeLabel": "江苏先锋网·2026公告全文",
+      "lastNotice": "江苏省2025年应届优秀大学毕业生选调工作公告",
+      "writtenDateRef": "2025-11-15",
+      "officialArticleTitle": "江苏省2026年应届优秀大学毕业生选调工作公告"
+    },
+    {
+      "officialArticleUrl": "https://scc.pku.edu.cn/frontpage/pku/html/xds_newsDetail.html?id=6408624b070541f584073bcf6175e894",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://bj.offcn.com/html/2024/09/420796.html",
+      "agencyNoticeLabel": "中公教育·浙江选调公告",
+      "id": "exam-zj-dx",
+      "name": "浙江定向选调",
+      "province": "浙江",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "《综合能力测试》训练口径：180分钟、150分；行测+申论合卷，数量关系和资料分析权重需要单独拉高。",
+      "dateNote": "2026年度公告已发布（2025年10月发布）：笔试2025年11月8日；下一年度公告预计2026年9-10月发布",
+      "noticeUrl": "https://scc.pku.edu.cn/frontpage/pku/html/xds_newsDetail.html?id=6408624b070541f584073bcf6175e894",
+      "noticeLabel": "北京大学就业网·2026公告转载",
+      "lastNotice": "2025年度浙江省党政机关选调应届优秀大学毕业生公告",
+      "writtenDateRef": "2025-11-08",
+      "officialArticleTitle": "2026年度浙江省党政机关选调应届优秀大学毕业生公告"
+    },
+    {
+      "officialArticleUrl": "http://subb.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://www.toutiao.com/article/7430287284664107561",
+      "agencyNoticeLabel": "头条·中央选调公告解读",
+      "id": "exam-central",
+      "name": "中央选调/国考副省方向",
+      "province": "中央",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "按中央机关综合管理类公共科目训练：行测120分钟+申论180分钟；政治理论、机关综合分析与大材料写作优先。",
+      "dateNote": "2026年度中央选调专题已发布（2025年10月发布）；下一年度公告预计2026年10月发布",
+      "noticeUrl": "http://subb.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html",
+      "noticeLabel": "国家公务员局·2026选调专题",
+      "lastNotice": "2025年度中央机关公开遴选和公开选调公务员公告",
+      "writtenDateRef": "2025-11-30",
+      "officialArticleTitle": "2026年度中央机关公开遴选和公开选调公务员专题"
+    },
+    {
+      "officialArticleUrl": "https://www.gdzz.gov.cn/gwygz/lypytzgg/content/mpost_24298.html",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://news.southcn.com/node_54a44f01a2/048ce5b05f.shtml",
+      "agencyNoticeLabel": "南方网·广东选调公告",
+      "id": "exam-gd-dx",
+      "name": "广东定向选调",
+      "province": "广东",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "笔试科目：综合行政能力测验、思维能力测验各90分钟；独立命题，逻辑判断与数量关系比重较高。",
+      "dateNote": "2026年度公告已发布（2025年12月发布）：笔试2025年12月28日；下一年度公告预计2026年11-12月发布",
+      "noticeUrl": "https://www.gdzz.gov.cn/gwygz/lypytzgg/content/mpost_24298.html",
+      "noticeLabel": "中共广东省委组织部·2026公告",
+      "lastNotice": "广东省2025年度选调优秀大学毕业生公告",
+      "writtenDateRef": "2025-12-28",
+      "officialArticleTitle": "广东省2026年度选调优秀大学毕业生公告"
+    },
+    {
+      "officialArticleUrl": "https://scc.pku.edu.cn/frontpage/pku/html/newsDetail_zdtj.html?id=f08dc7115adc4184a43e1d615c534d87",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://sh.huatu.com/2024/0918/1275515.html",
+      "agencyNoticeLabel": "华图教育·上海选调政策问答",
+      "id": "exam-sh-dx",
+      "name": "上海定向选调",
+      "province": "上海",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "笔试与上海市考同步进行：行测+申论两科，申论部分倾向上海市情和城市建设主题。",
+      "dateNote": "2026年度公告已发布（2025年9月发布）：笔试2025年11月1日；下一年度公告预计2026年9月发布",
+      "noticeUrl": "https://scc.pku.edu.cn/frontpage/pku/html/newsDetail_zdtj.html?id=f08dc7115adc4184a43e1d615c534d87",
+      "noticeLabel": "北京大学就业网·2026公告转载",
+      "lastNotice": "上海市2025年度选调应届优秀大学毕业生公告",
+      "writtenDateRef": "2025-11-01",
+      "officialArticleTitle": "上海市2026年度选调应届优秀大学毕业生公告"
+    },
+    {
+      "officialArticleUrl": "https://www.ahxf.gov.cn/Home/Content/1186075?ClassId=6714",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://www.ahxf.gov.cn/H5/Content/1176952",
+      "agencyNoticeLabel": "安徽先锋网·选调通知",
+      "id": "exam-ah-dx",
+      "name": "安徽定向选调",
+      "province": "安徽",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "笔试科目为综合知识，含行测、申论及少量安徽省情常识，总分150分、考试时间180分钟。",
+      "dateNote": "2026年度公告已发布：笔试2026年3月14日；下一年度公告预计2026年11月发布",
+      "noticeUrl": "https://www.ahxf.gov.cn/Home/Content/1186075?ClassId=6714",
+      "noticeLabel": "安徽先锋网·2026公告全文",
+      "lastNotice": "安徽省2025年度选调生招录公告",
+      "writtenDateRef": "2026-03-14",
+      "officialArticleTitle": "安徽省2026年度选调生招录公告"
+    },
+    {
+      "officialArticleUrl": "http://xds.fzu.edu.cn/newsdetail.asp?id=304",
+      "officialArticleYear": "2026",
+      "agencyNoticeUrl": "https://zw.admin.offcn.com/ggcx/gg/71069/",
+      "agencyNoticeLabel": "中公教育·福建选调公告",
+      "id": "exam-fj-dx",
+      "name": "福建定向选调",
+      "province": "福建",
+      "signupDate": "待公布",
+      "writtenDate": "待公布",
+      "distribution": "笔试科目：行政职业能力测验+申论，与福建省考题型接近但难度略低，侧重综合素质考察。",
+      "dateNote": "2026年度公告已发布：笔试2026年2月1日；下一年度公告预计2026年11月发布",
+      "noticeUrl": "http://xds.fzu.edu.cn/newsdetail.asp?id=304",
+      "noticeLabel": "福州大学选调生网·2026公告",
+      "lastNotice": "福建省2025年度选调生选拔工作公告",
+      "writtenDateRef": "2026-02-01",
+      "officialArticleTitle": "福建省2026年度选调生选拔工作公告"
+    }
+  ],
+  "links": [
+    {
+      "id": "link-guoxi",
+      "title": "B站搜索：郭熙 言语理解",
+      "type": "B站",
+      "module": "言语理解",
+      "url": "https://search.bilibili.com/all?keyword=%E9%83%AD%E7%86%99%20%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3"
+    },
+    {
+      "id": "link-gaozhao",
+      "title": "B站搜索：高照 资料分析",
+      "type": "B站",
+      "module": "资料分析",
+      "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%85%A7%20%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90"
+    },
+    {
+      "id": "link-longfei",
+      "title": "B站搜索：龙飞 图推",
+      "type": "B站",
+      "module": "判断推理",
+      "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A3%9E%20%E5%9B%BE%E6%8E%A8"
+    },
+    {
+      "id": "link-huasheng",
+      "title": "B站搜索：花生十三 逻辑判断",
+      "type": "B站",
+      "module": "判断推理",
+      "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E7%94%9F%E5%8D%81%E4%B8%89%20%E9%80%BB%E8%BE%91%E5%88%A4%E6%96%AD"
+    },
+    {
+      "id": "link-bailu",
+      "title": "B站搜索：半月谈 白露 申论",
+      "type": "B站",
+      "module": "申论",
+      "url": "https://search.bilibili.com/all?keyword=%E5%8D%8A%E6%9C%88%E8%B0%88%20%E7%99%BD%E9%9C%B2%20%E7%94%B3%E8%AE%BA"
+    },
+    {
+      "id": "link-people",
+      "title": "人民网观点频道",
+      "type": "申论素材",
+      "module": "申论",
+      "url": "https://opinion.people.com.cn/"
+    },
+    {
+      "id": "link-qiushi",
+      "title": "求是网",
+      "type": "申论素材",
+      "module": "申论",
+      "url": "https://www.qstheory.cn/"
+    }
+  ],
+  "idioms": [
+    {
+      "id": "idiom-1",
+      "word": "按图索骥",
+      "meaning": "照线索寻找，也比喻机械照搬。",
+      "example": "做资料定位时可按图索骥，但申论不能机械套模板。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-2",
+      "word": "白驹过隙",
+      "meaning": "时间过得很快。",
+      "example": "备考时间白驹过隙，计划要落到每天。",
+      "tags": [
+        "备考"
+      ]
+    },
+    {
+      "id": "idiom-3",
+      "word": "抱残守缺",
+      "meaning": "守着旧东西不放，不思改进。",
+      "example": "复盘不能抱残守缺，要及时调整方法。",
+      "tags": [
+        "备考"
+      ]
+    },
+    {
+      "id": "idiom-4",
+      "word": "筚路蓝缕",
+      "meaning": "创业艰辛。",
+      "example": "基层治理往往需要筚路蓝缕的实干精神。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-5",
+      "word": "鞭辟入里",
+      "meaning": "分析透彻，切中要害。",
+      "example": "综合分析题要鞭辟入里。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-6",
+      "word": "不刊之论",
+      "meaning": "不可改动或磨灭的言论，形容正确。",
+      "example": "注意不是不能刊登的言论。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-7",
+      "word": "不孚众望",
+      "meaning": "不能使群众信服。",
+      "example": "与不负众望含义相反。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-8",
+      "word": "不以为然",
+      "meaning": "不认为是对的。",
+      "example": "不是不放在心上。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-9",
+      "word": "不以为意",
+      "meaning": "不放在心上。",
+      "example": "与不以为然区分。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-10",
+      "word": "差强人意",
+      "meaning": "大体还能令人满意。",
+      "example": "不是令人很不满意。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-11",
+      "word": "殚精竭虑",
+      "meaning": "用尽精力，费尽心思。",
+      "example": "形容干部担当作为。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-12",
+      "word": "方兴未艾",
+      "meaning": "事物正在发展，尚未停止。",
+      "example": "数字治理方兴未艾。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-13",
+      "word": "浮光掠影",
+      "meaning": "观察不细致，印象不深。",
+      "example": "申论审题不能浮光掠影。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-14",
+      "word": "改弦更张",
+      "meaning": "改革制度或变更方法。",
+      "example": "治理方式需要改弦更张。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-15",
+      "word": "纲举目张",
+      "meaning": "抓住主要环节，带动其他环节。",
+      "example": "政策执行要纲举目张。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-16",
+      "word": "功败垂成",
+      "meaning": "快成功时失败。",
+      "example": "考前不能因细节功败垂成。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-17",
+      "word": "管窥蠡测",
+      "meaning": "见识狭小，了解片面。",
+      "example": "不能以管窥蠡测看基层问题。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-18",
+      "word": "汗牛充栋",
+      "meaning": "书籍资料很多。",
+      "example": "资料汗牛充栋，筛选比囤积重要。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-19",
+      "word": "涣然冰释",
+      "meaning": "疑虑、误会完全消除。",
+      "example": "政策沟通让疑虑涣然冰释。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-20",
+      "word": "讳疾忌医",
+      "meaning": "掩饰缺点错误，不愿改正。",
+      "example": "错题复盘不能讳疾忌医。",
+      "tags": [
+        "备考"
+      ]
+    },
+    {
+      "id": "idiom-21",
+      "word": "集腋成裘",
+      "meaning": "积少成多。",
+      "example": "每日素材积累可以集腋成裘。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-22",
+      "word": "见微知著",
+      "meaning": "从小迹象看出大趋势。",
+      "example": "材料阅读要见微知著。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-23",
+      "word": "胶柱鼓瑟",
+      "meaning": "拘泥固执，不知变通。",
+      "example": "数量关系不能胶柱鼓瑟。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-24",
+      "word": "举重若轻",
+      "meaning": "处理困难问题显得轻松。",
+      "example": "高手做题常能举重若轻。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-25",
+      "word": "空谷足音",
+      "meaning": "难得的消息、言论或事物。",
+      "example": "优秀经验对基层治理是空谷足音。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-26",
+      "word": "临渊羡鱼",
+      "meaning": "只希望而不行动。",
+      "example": "备考不能临渊羡鱼。",
+      "tags": [
+        "备考"
+      ]
+    },
+    {
+      "id": "idiom-27",
+      "word": "络绎不绝",
+      "meaning": "人马车辆往来不断。",
+      "example": "不能形容抽象观点。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-28",
+      "word": "南辕北辙",
+      "meaning": "行动和目的相反。",
+      "example": "刷题不复盘容易南辕北辙。",
+      "tags": [
+        "易混",
+        "备考"
+      ]
+    },
+    {
+      "id": "idiom-29",
+      "word": "披沙拣金",
+      "meaning": "从大量事物中选取精华。",
+      "example": "申论材料要披沙拣金。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-30",
+      "word": "曲突徙薪",
+      "meaning": "事先采取措施防止危险。",
+      "example": "公共治理要曲突徙薪。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-31",
+      "word": "人浮于事",
+      "meaning": "人员过多或人多事少。",
+      "example": "机构治理忌人浮于事。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-32",
+      "word": "日拱一卒",
+      "meaning": "每天前进一点。",
+      "example": "备考靠日拱一卒。",
+      "tags": [
+        "备考"
+      ]
+    },
+    {
+      "id": "idiom-33",
+      "word": "如履薄冰",
+      "meaning": "行事极为谨慎。",
+      "example": "公共安全治理要如履薄冰。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-34",
+      "word": "甚嚣尘上",
+      "meaning": "某种言论十分嚣张，多含贬义。",
+      "example": "注意感情色彩。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-35",
+      "word": "首当其冲",
+      "meaning": "最先受到攻击或遭遇灾难。",
+      "example": "不是首先做某事。",
+      "tags": [
+        "易混"
+      ]
+    },
+    {
+      "id": "idiom-36",
+      "word": "水到渠成",
+      "meaning": "条件成熟，事情自然成功。",
+      "example": "基础扎实后提分水到渠成。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-37",
+      "word": "探骊得珠",
+      "meaning": "抓住文章或问题的要点。",
+      "example": "申论概括要探骊得珠。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-38",
+      "word": "望其项背",
+      "meaning": "赶得上，多用于否定。",
+      "example": "难以望其项背。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-39",
+      "word": "未雨绸缪",
+      "meaning": "事先做好准备。",
+      "example": "选调报名材料要未雨绸缪。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-40",
+      "word": "相形见绌",
+      "meaning": "相比之下显得不足。",
+      "example": "表达差距。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-41",
+      "word": "一蹴而就",
+      "meaning": "一下子成功。",
+      "example": "能力提升不能一蹴而就。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-42",
+      "word": "缘木求鱼",
+      "meaning": "方向方法错误。",
+      "example": "盲目囤课是缘木求鱼。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-43",
+      "word": "责无旁贷",
+      "meaning": "责任不能推卸。",
+      "example": "青年干部责无旁贷。",
+      "tags": [
+        "申论"
+      ]
+    },
+    {
+      "id": "idiom-44",
+      "word": "振聋发聩",
+      "meaning": "言论使人醒悟。",
+      "example": "优秀评论可作申论素材。",
+      "tags": [
+        "常用"
+      ]
+    },
+    {
+      "id": "idiom-45",
+      "word": "踵事增华",
+      "meaning": "继承前人事业并发扬光大。",
+      "example": "文化传承可用。",
+      "tags": [
+        "常用"
+      ]
+    }
+  ],
+  "articleReads": []
+}

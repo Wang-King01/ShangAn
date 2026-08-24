@@ -1,0 +1,24 @@
+{
+  "root": "D:\\BaiduNetdiskDownload",
+  "exactLocalRoot": "D:\\BaiduNetdiskDownload\\考公资料-名师课程",
+  "exactLocalExists": false,
+  "sourceMode": "fallback",
+  "cloudCourse": {
+    "exists": true,
+    "shortcutPath": "C:\\Users\\汪蒋涛\\Desktop\\25年名师课程.lnk",
+    "targetPath": "D:\\baidu\\BaiduNetdisk\\BaiduNetdisk.exe",
+    "description": "25年名师课程",
+    "iconLocation": "D:\\baidu\\BaiduNetdisk\\module\\BrowserEngine\\resources\\netdisk_folder.ico,0",
+    "remoteFolder": "/考公资料/25年名师课程",
+    "userName": "133*****710"
+  },
+  "scannedAt": "2026-07-10T09:05:45.018Z",
+  "warning": "未找到 D:\\BaiduNetdiskDownload\\考公资料-名师课程，当前只在已下载文件中筛选疑似课程，已排除真题/答案类文件。 已识别百度网盘云端课程目录 /考公资料/25年名师课程，但该目录未下载到本地，无法直接枚举视频分布。",
+  "stats": {
+    "usableCount": 0,
+    "videoCount": 0,
+    "teacherTaggedCount": 0,
+    "excludedAnswerLikeCount": 7
+  },
+  "courses": []
+}

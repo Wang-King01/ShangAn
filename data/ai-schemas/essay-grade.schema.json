@@ -1,0 +1,67 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "score",
+    "summary",
+    "questionType",
+    "dimensions",
+    "strengths",
+    "missingPoints",
+    "revisionSteps",
+    "revisedAnswer",
+    "comparisons",
+    "webSources"
+  ],
+  "properties": {
+    "score": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "summary": { "type": "string" },
+    "questionType": { "type": "string" },
+    "dimensions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "score", "max", "comment"],
+        "properties": {
+          "name": { "type": "string" },
+          "score": { "type": "integer", "minimum": 0 },
+          "max": { "type": "integer", "minimum": 1 },
+          "comment": { "type": "string" }
+        }
+      }
+    },
+    "strengths": { "type": "array", "items": { "type": "string" } },
+    "missingPoints": { "type": "array", "items": { "type": "string" } },
+    "revisionSteps": { "type": "array", "items": { "type": "string" } },
+    "revisedAnswer": { "type": "string" },
+    "comparisons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["source", "title", "similarities", "differences", "adoptable"],
+        "properties": {
+          "source": { "type": "string" },
+          "title": { "type": "string" },
+          "similarities": { "type": "string" },
+          "differences": { "type": "string" },
+          "adoptable": { "type": "string" }
+        }
+      }
+    },
+    "webSources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title", "url", "note"],
+        "properties": {
+          "title": { "type": "string" },
+          "url": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    }
+  }
+}

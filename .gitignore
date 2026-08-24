@@ -1,0 +1,16 @@
+.env.local
+node_modules/
+data/ai-runs/
+data/uploads/
+*.log
+logs/
+output/
+artifacts/
+tmp/
+.playwright-cli/
+server.js.bak_*
+server.js.patch
+public/app.js.bak_*
+public/index.html.bak_*
+public/backup_*/
+data/codex-smoke.txt

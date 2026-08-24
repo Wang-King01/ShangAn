@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "transcription",
+    "module",
+    "questionType",
+    "answer",
+    "errorReason",
+    "tags",
+    "reviewAdvice"
+  ],
+  "properties": {
+    "transcription": { "type": "string" },
+    "module": { "type": "string" },
+    "questionType": { "type": "string" },
+    "answer": { "type": "string" },
+    "errorReason": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "reviewAdvice": { "type": "string" }
+  }
+}

@@ -605,6 +605,10 @@
   async function saveProgress(taskId, values) {
     var task = taskById(taskId);
     if (!task) return;
+    if (state.readOnlyMode) {
+      toast("线上只读模式：请在本地服务中使用完整功能", true);
+      return;
+    }
     var result = await api("/api/progress", {
       method: "POST",
       body: JSON.stringify({
@@ -1257,6 +1261,10 @@
   async function submitExam(event) {
     event.preventDefault();
     var form = event.currentTarget;
+    if (state.readOnlyMode) {
+      toast("线上只读模式：请在本地服务中编辑", true);
+      return;
+    }
     try {
       var result = await api("/api/exams", {
         method: "POST",
@@ -1570,7 +1578,18 @@
     refresh.disabled = true;
     refresh.classList.add("loading-spin");
     try {
-      var data = await api("/api/bootstrap");
+      var data;
+      try {
+        data = await api("/api/bootstrap");
+        state.readOnlyMode = false;
+      } catch (apiError) {
+        var snapshotResponse = await fetch("static-data.json");
+        if (!snapshotResponse.ok) throw apiError;
+        var snapshot = await snapshotResponse.json();
+        data = snapshot.bootstrap || {};
+        state.articlesSnapshot = snapshot.articles || null;
+        state.readOnlyMode = true;
+      }
       data.db = data.db || {};
       data.plan = data.plan || [];
       data.cloudCourses = data.cloudCourses || { courses: [] };
@@ -1582,7 +1601,16 @@
       renderShell();
       setView(state.view, false);
       if (showMessage) toast("数据已刷新");
-      loadArticles(false);
+      if (state.readOnlyMode) {
+        $("#sidebar-status").innerHTML = '<span class="status-dot"></span><div><strong>线上只读模式</strong><small>展示预置数据；完整功能请运行本地服务</small></div>';
+        if (state.articlesSnapshot) {
+          state.articles = state.articlesSnapshot;
+          selectDailyArticle();
+          if (state.view === "articles") renderArticles();
+        }
+      } else {
+        loadArticles(false);
+      }
     } catch (error) {
       toast("启动失败：" + error.message, true);
       $("#sidebar-status").innerHTML = '<span class="status-dot warning"></span><div><strong>服务读取失败</strong><small>' +
